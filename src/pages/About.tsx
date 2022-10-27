@@ -7,7 +7,7 @@ export function About() {
         <Container style={{padding: '60px 0px 0px 0px'}} sx={{ mb: 4 }}>
     <Grid container spacing={2} >
          <Grid item xs={6}>
-          <img style={{width: '100%'}} src="../public/img/about.jpeg" />
+          <img style={{width: '100%'}} src="/img/about.jpeg" />
         </Grid>
         <Grid item xs={6}>
           <Typography

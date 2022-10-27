@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Vossen Wheel",
+        "price": 500.00,
+        "imgUrl": "/img/wheel1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BBS Wheel",
+        "price": 650.00,
+        "imgUrl": "/img/wheel2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Avant Garde Wheel",
+        "price": 1100.00,
+        "imgUrl": "/img/wheel3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Avant Garde Wheel",
+        "price": 1700.00,
+        "imgUrl": "/img/wheel4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "BC Forged Wheel",
+        "price": 900.00,
+        "imgUrl": "/img/wheel5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rohana Wheel",
+        "price": 2000.00,
+        "imgUrl": "/img/wheel6.jpg"
+    }
+]
